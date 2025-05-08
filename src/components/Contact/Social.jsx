@@ -52,7 +52,7 @@ const Social = () => {
                   </li>
                   <li className="contact-icons">
                     <a
-                      href="hhttps://leetcode.com/19sajib/"
+                      href="https://leetcode.com/u/SahithyaD/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-color contact-social-icons"

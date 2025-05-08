@@ -110,7 +110,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://leetcode.com/19sajib/"
+                      href="https://leetcode.com/u/SahithyaD/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour home-social-icons"
